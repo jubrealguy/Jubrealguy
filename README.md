@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome
+I am a programmer, I do frontend jobs. I am currently on a software engineering programme with ALX.
+I am available for any front end projects, also python and C projects.
+
+A certified data analyst.
 
 <!--
 **jubrealguy/Jubrealguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
