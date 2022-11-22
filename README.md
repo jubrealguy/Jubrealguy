@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jubrealguy&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jubrealguy)](https://github.com/anuraghazra/github-readme-stats)
-
 ## :chart_with_upwards_trend: My Github Stats :
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=jubrealguy&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
