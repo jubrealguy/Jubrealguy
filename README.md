@@ -23,3 +23,12 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jubrealguy&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jubrealguy)](https://github.com/anuraghazra/github-readme-stats)
+
+## :chart_with_upwards_trend: My Github Stats :
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=jubrealguy&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jubrealguy&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jubrealguy&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## :trophy: GitHub Trophies :
+
+![](https://github-profile-trophy.vercel.app/?username=jubrealguy&theme=nord&no-frame=true&no-bg=true&margin-w=4)
