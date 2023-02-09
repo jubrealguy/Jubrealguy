@@ -1,5 +1,5 @@
 ## Welcome
-I am a programmer skilled in the C Language and Python, I do frontend jobs as I am vast with advanced HTML, advanced CSS and JavaScript. I am currently on a software engineering course with ALX.
+I am a programmer skilled in JavaScript, the C Language and Python, I do frontend jobs as I am vast with advanced HTML, advanced CSS and JavaScript. I am currently on a software engineering course with ALX.
 
 I am available for any front end projects, also python and C projects. I am also willing to collaborate with young and seasoned programmers on technical projects
 
