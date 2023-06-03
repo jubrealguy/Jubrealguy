@@ -4,7 +4,7 @@ I am a programmer  skilled in JavaScript and Python, I do frontend jobs as I am 
 I am available for any frontend projects, also python and C projects. I am also willing to collaborate with young and seasoned programmers on technical projects
 
 <!--
-**jubrealguy/Jubrealguy**  is a ✨ pecialh ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jubrealguy/Jubrealguy**  is a ✨ pecialh ✨ repository because its `README.md`(this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
