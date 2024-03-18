@@ -1,4 +1,4 @@
-I am a programmer  skilled in JavaScript and Python, I do frontend jobs as I am vast with advanced HTML, advanced CSS, JavaScript and the REACT library. I am currently on a software engineering programme with ALX.
+I am a programmer  skilled in JavaScript and Python, I do frontend jobs as I am vast with advanced HTML, advanced CSS, JavaScript and the REACT library. I am ALX/Holberton certified.
 
 I am available for any frontend projects, also python and C projects. I am also willing to collaborate with young and seasoned programmers on technical projects
 
